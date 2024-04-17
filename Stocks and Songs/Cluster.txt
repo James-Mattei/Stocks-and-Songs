@@ -1,0 +1,12 @@
+Silhouette score for k means clustering with  2 centroids is:  0.8583939711161646
+Cluster labels for  2  clusters are: 
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1]
+Silhouette score for k means clustering with  4 centroids is:  0.7895007134309826
+Cluster labels for  4  clusters are: 
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 3 3 0 2 0 1]
+Silhouette score for k means clustering with  6 centroids is:  0.48954857137095475
+Cluster labels for  6  clusters are: 
+ [0 5 5 0 5 5 0 5 5 0 5 0 0 0 0 0 4 4 0 4 0 0 5 5 0 0 0 0 0 0 0 4 0 0 4 0 4
+ 5 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 2 4 5 3 5 2 0 1]

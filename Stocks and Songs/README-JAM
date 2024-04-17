@@ -1,0 +1,14 @@
+Attribute.py - Creates the master dataframe FullData which many other programs rely on.
+Depends on financialData.csv, Tickers.csv, masterDataframe.csv, and SongsTickerMentions.csv.
+
+Cluster.py - KNN code which depends on stocks.csv and attributes.csv.
+Writes HypStocks.csv with is needed for Hypothesis.py
+
+Hists.py - creates the histograms and correlations for that SongsTickerMentions
+Depends on FullData.csv, attributes.csv, Tickers.csv
+
+Hypothesis.py - performs 3 hypothesis tests for difference in means using t-tests
+Depends on FullData.csv and HypStocks.csv
+
+Stats.py - creates Poisson and Negative Binomial models and runs regression on train/test sets
+Depends on FullData.csv
